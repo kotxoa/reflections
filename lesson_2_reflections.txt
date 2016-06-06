@@ -1,4 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 	crea una carpeta .git para guardar los metadatos
 	Git tiene que saber que queremos controlar esta carpeta
-	
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+	The working directory tiene todo mi trabajo, the staging area la parte que 
+	quiero commitear en el siguiente commit y the repository tiene el historial
+
